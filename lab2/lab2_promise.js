@@ -1,5 +1,5 @@
 /* 
-Purpose: Acts as an API developer and createa  new romise to either
+Purpose: Acts as an API developer and create a new promise to either
 */ 
 async function fetch_game() {
     let promise_games = new Promise((resolve, reject) => {
