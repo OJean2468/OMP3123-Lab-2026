@@ -1,0 +1,19 @@
+{
+  "name": "week06_mongoose",
+  "version": "1.0.0",
+  "description": "Set up the connection of your DB Mongo Server to your web server ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/OJean2468/OMP3123-Lab-2026.git"
+  },
+  "license": "ISC",
+  "author": "O'Neal Jean",
+  "dependencies": {
+    "mongoose": "8.19.1",
+    "express": "5.1.0"
+  }
+}
